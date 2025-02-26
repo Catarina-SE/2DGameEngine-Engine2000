@@ -5,7 +5,7 @@
 #include "Renderer.h"
 #include "E2Log.h"
 
-const float PhysicsWorld::VELOCITY_SCALE = 60.0f;
+const float PhysicsWorld::VELOCITY_SCALE = 0.30f;
 
 bool PhysicsWorld::filterCallback(b2ShapeId shapeIdA, b2ShapeId shapeIdB, void* context)
 {
@@ -29,7 +29,7 @@ bool PhysicsWorld::filterCallback(b2ShapeId shapeIdA, b2ShapeId shapeIdB, void* 
 }
 
 PhysicsWorld::PhysicsWorld()
-	: m_timeStep(1.0f / 30.0f)
+	: m_timeStep(1.0f / 5.0f)
 	, m_subSteps(4)
 	, m_worldWidth(0)
 	, m_worldHeight(0)

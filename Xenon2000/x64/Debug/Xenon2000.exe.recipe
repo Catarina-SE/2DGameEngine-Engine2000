@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>H:\GitHub\Engine2000v2\x64\Debug\Engine2000.dll</FullPath>
+      <FullPath>C:\Users\escre\Documents\GitHub\2DGameEngine-Engine2000\x64\Debug\Engine2000.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>H:\GitHub\Engine2000v2\x64\Debug\Xenon2000.exe</FullPath>
+      <FullPath>C:\Users\escre\Documents\GitHub\2DGameEngine-Engine2000\x64\Debug\Xenon2000.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
