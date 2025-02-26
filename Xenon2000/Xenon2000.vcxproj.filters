@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\XenonGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\XenonLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Loner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LonerProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PlayerProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\XenonWaveManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Rusher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MetalAsteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Companion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\PowerUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\WeaponPowerUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ExplosionProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LifeDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\LifeIcon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\HealthBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ShieldPowerUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Drone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\CompanionPowerUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Rock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\TextDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\XenonGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\XenonLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Loner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Explosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\LonerProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\PlayerProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\XenonWaveManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Rusher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\IDamageable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Asteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\MetalAsteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Companion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\PowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\WeaponPowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ExplosionProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\LifeDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\LifeIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\HealthBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ShieldPowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Drone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\CompanionPowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Rock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\TextDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="graphics\bblogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Blocks.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\bosseyes2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Burner6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\clone.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\clonejet.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\destroyable.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\drone.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\EnWeap6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\explode16.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\explode32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\explode64.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Font8x8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\font16x16.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\galaxy2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\GAster32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\GAster64.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\GAster96.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\GDust.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\GShoot.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\hmissile.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Homing.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\HomProjc.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\logo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\LonerA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\LonerB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\LonerC.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\MAster32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\MAster64.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\MAster96.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\MDust.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\missile.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\pcflogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PCFlogo1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PCFlogo2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\playerjet.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\pod.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUDive.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUInvuln.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PULaser.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PULife.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUMissil.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUScore.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUShield.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUSpeed.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\PUWeapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\retros.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\rusher.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SAster32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SAster64.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SAster96.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SDust.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Ship1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Ship2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\smoke.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\spinners.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SporesA.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SporesB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SporesC.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\SporesD.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\wallhugger.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Wingtip.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="graphics\Xlogo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="graphics\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Xenon2000.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

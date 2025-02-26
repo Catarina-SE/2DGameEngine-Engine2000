@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>H:\GitHub\Engine2000v2\x64\Debug\Engine2000.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>H:\GitHub\Engine2000v2\x64\Debug\Xenon2000.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

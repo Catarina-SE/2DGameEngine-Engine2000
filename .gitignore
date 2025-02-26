@@ -1,0 +1,10 @@
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
+.vs/Engine2000/v17/DocumentLayout.json
+Engine2000/x64/Debug/Engine2000.ilk
+Engine2000/x64/Debug/Engine2000.log
